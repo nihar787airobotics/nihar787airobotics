@@ -66,38 +66,6 @@ class Nihar:
 
 ---
 
-<div align="center">
-
-## 🧠 Vision Learning Roadmap
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                   COMPUTER VISION PATH                  │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  PHASE 1 — PIXEL FOUNDATIONS          [▓▓▓▓▓▓▓░░░] 70% │
-│  ├─ Color Spaces · HSV, BGR, Grayscale       ✅         │
-│  ├─ Filters & Edge Detection · Canny, Sobel  ✅         │
-│  ├─ Contours & Shape Analysis                ✅         │
-│  └─ Real-Time Color Detection                ✅         │
-│                                                         │
-│  PHASE 2 — OBJECT INTELLIGENCE        [▓▓▓░░░░░░░] 30% │
-│  ├─ Feature Detection · SIFT, ORB, FAST      🔄         │
-│  ├─ Object Tracking & Optical Flow           🔄         │
-│  ├─ Camouflage & Occlusion Handling          🔄         │
-│  └─ Camera Calibration & Depth               📅         │
-│                                                         │
-│  PHASE 3 — AI + ROBOT PERCEPTION      [░░░░░░░░░░]  0% │
-│  ├─ YOLO Object Detection                    📅         │
-│  ├─ Semantic Segmentation                    📅         │
-│  ├─ ROS Integration                          📅         │
-│  └─ Autonomous Robot Vision Pipeline         📅         │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ## 💻 Tech Stack
@@ -106,18 +74,7 @@ class Nihar:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nihar787airobotics&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihar787airobotics&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d"/>
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nihar787airobotics&theme=midnight-purple&hide_border=true&background=0d0d0d)
-
-</div>
 
 ---
 
