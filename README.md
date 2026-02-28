@@ -8,9 +8,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nihar787airobotics&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/nihar787airobotics?style=for-the-badge&color=7C3AED&labelColor=0d0d0d)
-![Stars](https://img.shields.io/github/stars/nihar787airobotics?style=for-the-badge&color=A855F7&labelColor=0d0d0d)
 
 </div>
 
