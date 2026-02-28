@@ -1,13 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0d0d,60:1a0030,100:2d0060&height=220&section=header&text=Nihar%20Bendke&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%F0%9F%A4%96%20AI%20Robotics%20%7C%20Computer%20Vision%20%7C%20OpenCV%20Engineer&descAlignY=58&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0d0d,60:1a0030,100:2d0060&height=220&section=header&text=Nihar%20Bendke&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%F0%9F%A4%96%20AI%20Robotics%20Pursuing%20%7C%20Computer%20Vision%20Enthusiast%20%7C%20OpenCV%20Explorer&descAlignY=58&descSize=17&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+the+Eyes+of+AI+Robots+%F0%9F%91%81%EF%B8%8F;OpenCV+%7C+Image+Processing+%7C+Computer+Vision;AI+Robotics+Student+%E2%80%94+VIT+Chennai+Batch+28;From+Pixels+to+Perception+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+the+Eyes+of+AI+Robots+%F0%9F%91%81%EF%B8%8F;OpenCV+%7C+Image+Processing+Enthusiast;AI+Robotics+Pursuing+%E2%80%94+VIT+Chennai+Batch+28;From+Pixels+to+Perception+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=nihar787airobotics&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/nihar787airobotics?style=for-the-badge&color=7C3AED&labelColor=0d0d0d)
+![Stars](https://img.shields.io/github/stars/nihar787airobotics?style=for-the-badge&color=A855F7&labelColor=0d0d0d)
 
 </div>
 
@@ -63,9 +66,36 @@ class Nihar:
 
 ---
 
+<div align="center">
+
+## 🧠 Vision Learning Roadmap
+
+</div>
 
 ```
-───────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│                   COMPUTER VISION PATH                  │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  PHASE 1 — PIXEL FOUNDATIONS          [▓▓▓▓▓▓▓░░░] 70% │
+│  ├─ Color Spaces · HSV, BGR, Grayscale       ✅         │
+│  ├─ Filters & Edge Detection · Canny, Sobel  ✅         │
+│  ├─ Contours & Shape Analysis                ✅         │
+│  └─ Real-Time Color Detection                ✅         │
+│                                                         │
+│  PHASE 2 — OBJECT INTELLIGENCE        [▓▓▓░░░░░░░] 30% │
+│  ├─ Feature Detection · SIFT, ORB, FAST      🔄         │
+│  ├─ Object Tracking & Optical Flow           🔄         │
+│  ├─ Camouflage & Occlusion Handling          🔄         │
+│  └─ Camera Calibration & Depth               📅         │
+│                                                         │
+│  PHASE 3 — AI + ROBOT PERCEPTION      [░░░░░░░░░░]  0% │
+│  ├─ YOLO Object Detection                    📅         │
+│  ├─ Semantic Segmentation                    📅         │
+│  ├─ ROS Integration                          📅         │
+│  └─ Autonomous Robot Vision Pipeline         📅         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -76,7 +106,16 @@ class Nihar:
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nihar787airobotics&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihar787airobotics&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d"/>
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nihar787airobotics&theme=midnight-purple&hide_border=true&background=0d0d0d)
 
 </div>
 
@@ -91,7 +130,7 @@ class Nihar:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niharbendke6@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihar787airobotics)
 
-
+</div>
 
 ---
 
