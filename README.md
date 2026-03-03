@@ -38,7 +38,7 @@ class Nihar:
     mission    = "Give machines the power to SEE and UNDERSTAND the world"
     
     def __repr__(self):
-        return "Still learning.Getting hands on basics then moving to advance level. Always building. Never stopping. 🚀"
+        return "Still learning.Getting hands on basics then moving to advance level. Will be coming up with more opencv computer vision and inage processing projects. Always building. Never stopping. 🚀"
 ```
 
 ---
