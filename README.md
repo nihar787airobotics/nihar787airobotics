@@ -1,27 +1,138 @@
-# 💫 About Me:
-<br>class Nihar:<br><br>    name       = "Nihar Bendke"<br><br>    username   = "nihar787airobotics"<br><br>    institute  = "VIT Chennai — AI Robotics, Batch 28"<br><br>    <br><br>    currently  = [<br><br>        "🔬 Mastering OpenCV — filters, contours, color spaces",<br><br>        "🤖 Building AI-powered robots with computer vision",<br><br>        "📡 Learning real-time image processing & object tracking",<br><br>        "🧠 Going deep: basics → advanced, one project at a time"<br><br>    ]<br><br>    <br><br>    mission    = "Give machines the power to SEE and UNDERSTAND the world"<br><br>    <br><br>    def __repr__(self):<br><br>        return "Still learning.Getting hands on basics then moving to advance level. Will be coming up with more opencv computer vision and inage processing projects. Always building. Never stopping. 🚀"<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Nihar%20Bendke&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2B%20Robotics%20%7C%20Computer%20Vision%20%7C%20Building%20Machines%20That%20See&descAlignY=58&descAlign=50" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nihar bendke) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niharbendke6@gmail.com) 
+<a href="https://github.com/nihar787airobotics?tab=repositories">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=Mastering+OpenCV+%E2%80%94+filters%2C+contours%2C+color+spaces;Building+AI-powered+robots+with+computer+vision;Learning+real-time+image+processing+%26+tracking;Basics+%E2%86%92+Advanced%2C+one+project+at+a+time;Always+building.+Never+stopping.+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nihar787airobotics&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nihar787airobotics&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nihar787airobotics&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nihar787airobotics&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihar-bendke)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niharbendke6@gmail.com)
+[![Repositories](https://img.shields.io/badge/My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihar787airobotics?tab=repositories)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nihar787airobotics&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=nihar787airobotics&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧠 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```python
+class Nihar:
+    name       = "Nihar Bendke"
+    username   = "nihar787airobotics"
+    institute  = "VIT Chennai — AI & Robotics, Batch 28"
+
+    currently  = [
+        "🔬 Mastering OpenCV — filters, contours, color spaces",
+        "🤖 Building AI-powered robots with computer vision",
+        "📡 Learning real-time image processing & object tracking",
+        "🧠 Going deep: basics → advanced, one project at a time",
+    ]
+
+    mission    = "Give machines the power to SEE and UNDERSTAND the world"
+
+    def __repr__(self):
+        return (
+            "Still learning. Hands-on with the basics, moving toward "
+            "advanced CV & ML systems. Always building. Never stopping. 🚀"
+        )
+```
+
+<br/>
+
+## 🛰️ Featured Work
+
+<div align="center">
+
+| Project | Highlights |
+|---|---|
+| 🩺 **Stroke Rehab Severity Assessment** | GhostNet + Attention, MoveNet pose estimation, CNN-LSTM on IMU data |
+| 🗑️ **Smart Waste Collection (L&T EduTech)** | 8-notebook ML pipeline for garbage bin level prediction |
+| 🚗 **VigilDrive AI** | Real-time driver drowsiness detection · FastAPI + Next.js + MediaPipe |
+| 🦵 **Parkinson's Gait Monitoring Wearable** | ESP32, MPU-6050, sub-50ms detection, auto emergency alerts |
+| ✋ **Real-Time Hand Gesture Tracker** | 21-landmark tracking at 30+ FPS with MediaPipe |
+
+📂 **See everything →** [**My Repositories**](https://github.com/nihar787airobotics?tab=repositories)
+
+</div>
+
+<br/>
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**Languages & Core**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts&theme=dark" />
+
+**AI / ML / CV**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
+
+**Web & App**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,vite,firebase,supabase&theme=dark" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,raspberrypi,arduino,ros,vercel,netlify,figma,notion&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nihar787airobotics&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nihar787airobotics&theme=radical&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihar787airobotics&layout=compact&theme=radical&hide_border=true" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihar787airobotics&theme=react-dark&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/nihar787airobotics/nihar787airobotics/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>✨ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — auto-generates once the <code>generate-snake.yml</code> GitHub Action is added to this repo (see setup note below).</sub>
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nihar787airobotics&theme=radical&no-frame=true&margin-w=8&row=1" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 Dev Quote of the Moment
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Repo Views](https://komarev.com/ghpvc/?username=nihar787airobotics&color=00c9a7&style=for-the-badge&label=Profile+Views)](https://visitcount.itsvg.in)
+
+### 🚀 [Browse All My Repositories →](https://github.com/nihar787airobotics?tab=repositories)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
